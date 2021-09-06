@@ -1,1 +1,4 @@
 # Neuronal-Network-Model
+
+MATLAB code to go with Research Project: A NEURONAL NETWORK MODEL WITH SIMULATION OF
+EPILEPTIFORM BEHAVIOUR
